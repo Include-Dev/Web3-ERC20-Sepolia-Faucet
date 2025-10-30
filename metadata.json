@@ -1,0 +1,5 @@
+{
+  "name": "Web3 ERC20 Sepolia Sender",
+  "description": "A simple and elegant web application to send any amount of any ERC20 token on the Sepolia Ethereum testnet. Connect your wallet, specify the token, recipient, and amount, and securely sign the transaction.",
+  "requestFramePermissions": []
+}
